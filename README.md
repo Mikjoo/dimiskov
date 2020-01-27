@@ -1,2 +1,0 @@
-# dimiskov
-Skripter | Developer | Hoster
